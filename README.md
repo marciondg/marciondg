@@ -1,7 +1,6 @@
 ### Hello there 👋
 
 - 🌱 Estoy aprendiendo sobre desarrollo web.
-- 📫 Contacto: mndgarozzo@gmail.com
 <!--
 **marciondg/marciondg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
