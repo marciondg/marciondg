@@ -8,18 +8,19 @@
 - 👨‍💻 Tengo conocimientos de programación imperativa, orientada a objetos, funcional y lógica. 
 - 🔭 Me encuentro en búsqueda laboral.
 
-<p style="text-align: center">
+<p align="center">
 <a href="https://www.linkedin.com/in/marcio-garozzo/"><img src="https://img.shields.io/badge/Marcio%20Garozzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/marciondg"><img src="https://img.shields.io/badge/Marciondg-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://gitlab.com/marciondg"><img src="https://img.shields.io/badge/Marciondg-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 <a href="mailto:mndgarozzo@gmail.com"><img src="https://img.shields.io/badge/mndgarozzo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
 
-
 #### My GitHub Stats 📊
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=marciondg&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=marciondg&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciondg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciondg&theme=dracula" />
 </a>
+</p>
