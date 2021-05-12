@@ -4,7 +4,7 @@
 - 🎓 Estudio 3° año de Ing. en Sistemas de Información en la [UTN - FRBA](http://www.sistemas.frba.utn.edu.ar/)
 - 📕 Realicé el curso Codo a Codo del Gobierno de la Ciudad en 2019.
 - 📗 Realicé el curso "Desarrollo de Aplicaciones Web" en [ComunidadIT](https://www.comunidadit.org/).
-- 🌱 Estoy aprendiendo sobre Java, C, y desarrollo web.
+- 🌱 Estoy aprendiendo sobre Java, C y desarrollo web.
 - 👨‍💻 Tengo conocimientos de programación imperativa, orientada a objetos, funcional y lógica. 
 - 🔭 Me encuentro en búsqueda laboral.
 
