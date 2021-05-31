@@ -10,9 +10,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marcio-garozzo/"><img src="https://img.shields.io/badge/Marcio%20Garozzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/marciondg"><img src="https://img.shields.io/badge/Marciondg-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://gitlab.com/marciondg"><img src="https://img.shields.io/badge/Marciondg-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-<a href="mailto:mndgarozzo@gmail.com"><img src="https://img.shields.io/badge/mndgarozzo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
 
 #### My GitHub Stats 📊
