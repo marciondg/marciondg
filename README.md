@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-- 🎓 Estudio 3° año de Ing. en Sistemas de Información en la [UTN - FRBA](http://www.sistemas.frba.utn.edu.ar/)
+- 🎓 Estudio 4° año de Ing. en Sistemas de Información en la [UTN - FRBA](http://www.sistemas.frba.utn.edu.ar/)
 - 👨‍💻 Actualmente trabajo en [Widergy](https://www.widergy.com).
 - 📗 Realicé el curso "Desarrollo de Aplicaciones Web con NodeJS" en [ComunidadIT](https://www.comunidadit.org/).
 - 🌱 Estoy aprendiendo sobre Ruby y NodeJS!
