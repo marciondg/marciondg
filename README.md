@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-- 🎓 Estudiante de 4° año de Ing. en Sistemas de Información en la [UTN - FRBA](http://www.sistemas.frba.utn.edu.ar/)
+- 🎓 Estudiante de último año de la Ingeniería en Sistemas de Información de la [UTN - FRBA](http://www.sistemas.frba.utn.edu.ar/)
 - 👨‍💻 Actualmente trabajo en [Widergy](https://www.widergy.com) como Backend Developer.
 - 💻 Desarrollo en Ruby on Rails y NodeJS.
 
